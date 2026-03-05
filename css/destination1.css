@@ -1,0 +1,93 @@
+body{
+   background-color: #f1f3f5;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0; 
+}
+
+h1{
+  color:green;
+  border-bottom: 3px solid green;
+  padding-bottom: 10px;
+  
+}
+h2{
+  color: #333;
+  margin-top: 20px;
+}
+p{
+  line-height: 1.6;
+}
+
+nav{
+  background-color: green;
+  padding: 12px 20px;
+}
+
+nav a{
+  color: white;
+  text-decoration: none;
+  margin-right: 15px;
+  font-weight: bold;
+
+
+}
+nav a:hover{
+  color: rgb(219, 219, 87);
+  text-decoration: underline;
+}
+
+.section-box{
+  background-color: white;
+  padding: 20px;
+  margin: 20px 0;
+  border-left: 4px solid green;
+}
+.highlight{
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+.page-footer{
+  background-color: green;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+}
+
+.page-footer a{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+image{
+  border: 3px solid green;
+  border-radius: 8px;
+  margin: 10px;
+  display: block;
+}
+
+table{
+  padding: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+th,td{
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+thead{
+  background-color: green;
+  color: white;
+}
+
+tbody tr:nth-child(even){
+  background-color: #f9f9f9;
+}
+
+
