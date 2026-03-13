@@ -90,4 +90,20 @@ tbody tr:nth-child(even){
   background-color: #f9f9f9;
 }
 
+.back-btn {
+    display: inline-block;
+    background-color: #f9ca24;
+    color: #2c3e7a;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    float: left;
+}
+
+.back-btn:hover {
+    background-color: #f9ca24;
+    color: #2c3e7a;
+}
+
 
